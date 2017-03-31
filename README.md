@@ -26,11 +26,7 @@ As this is a really simple project, you can use the command-line build tool and 
 
 ## Overview
 
-<<<<<<< HEAD
-The project represents an alpha version of a spaceship. Soon the spaceship will be ready to go to the moon.
-=======
 The project represents an alpha version of a spaceship. Soon the spaceship will be ready to go to the Pluto.
->>>>>>> branch-B
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
 - We have only one spaceship as of now (`GT4500`).
